@@ -31,7 +31,6 @@ portable_config/
 | `fps` | `0` | Sample frame rate, values > 0 will override the auto mode |
 | `comparison` | `no` | Enable the split comparison |
 
-```
 ## Credits
 
 - [Apple technical summary, v1.0](https://developer.apple.com/accessibility/downloads/Video-Flashing-Reduction-12.pdf)
